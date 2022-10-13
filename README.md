@@ -12,4 +12,4 @@
   - Use DAX to measure necessary factors and visualize dashboard in Power BI
  
  ## Skills gained:
-  Design Thinking, Data cleaning, Data analyze, Data visulization
+  Design Thinking, Data cleaning, Data analyze, Data visualization

@@ -9,7 +9,8 @@
 ## Steps to do:
   - Apply design thinking to identify the key goal and analyze the dataset
   - Use Power Query to load, explore, clean data
-  - Use DAX to measure necessary factors and visualize dashboard in Power BI
+  - Use DAX to measure necessary factors 
+  - Visualize dashboard in Power BI
  
  ## Skills gained:
   Design Thinking, Data cleaning, Data analyze, Data visualization
